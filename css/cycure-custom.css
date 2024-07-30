@@ -1,0 +1,15 @@
+.home.page-template .navbar-wrap ul li a {
+    color: #d3deff;
+}
+.home.page-template .sticky-menu .navbar-wrap ul li a {
+    color: #B2B9C0;
+}
+.home.page-template .navbar-wrap ul li .sub-menu li:hover > a,
+.home.page-template .navbar-wrap ul li .sub-menu li.active > a,
+.home.page-template .navbar-wrap > ul > li.active > a,
+.home.page-template .navbar-wrap > ul > li:hover > a {
+    color: var(--tg-primary-color);
+}
+.home.page-template .navbar-wrap ul li .sub-menu li a {
+    color: #B2B9C0;
+}
